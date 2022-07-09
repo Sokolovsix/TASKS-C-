@@ -1,0 +1,15 @@
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\bin\Debug\net6.0\Task001_Quatro.exe
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\bin\Debug\net6.0\Task001_Quatro.deps.json
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\bin\Debug\net6.0\Task001_Quatro.runtimeconfig.json
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\bin\Debug\net6.0\Task001_Quatro.dll
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\bin\Debug\net6.0\Task001_Quatro.pdb
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\obj\Debug\net6.0\Task001_Quatro.csproj.AssemblyReference.cache
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\obj\Debug\net6.0\Task001_Quatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\obj\Debug\net6.0\Task001_Quatro.AssemblyInfoInputs.cache
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\obj\Debug\net6.0\Task001_Quatro.AssemblyInfo.cs
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\obj\Debug\net6.0\Task001_Quatro.csproj.CoreCompileInputs.cache
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\obj\Debug\net6.0\Task001_Quatro.dll
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\obj\Debug\net6.0\refint\Task001_Quatro.dll
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\obj\Debug\net6.0\Task001_Quatro.pdb
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\obj\Debug\net6.0\Task001_Quatro.genruntimeconfig.cache
+C:\Users\sokol\Desktop\TASKS\Task001_Quatro\obj\Debug\net6.0\ref\Task001_Quatro.dll
